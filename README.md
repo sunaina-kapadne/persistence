@@ -1,10 +1,11 @@
-This repo contains Quarkus Exercises - 2.2 & 2.3.
+<H1> This repo contains Quarkus Exercises - 2.2 & 2.3. </H1>
 
 2. Quarkus Exercises
 
         2.2 Persistence with Panache
         2.3 MicroProfile Health Check
 
+<BR>
 
 <H1>Back to Other Backend Exercise Solutions</H1>
 
